@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 12179655,
       "digest": "sha256:830ea047491b7edfe6aa07b4801cc95d186ee15bfed66fc13529298992cfcd82",
-      "download_count": 72,
+      "download_count": 75,
       "created_at": "2026-07-29T16:57:25Z",
       "updated_at": "2026-07-29T16:57:26Z",
       "browser_download_url": "https://github.com/bensadeh/circumflex/releases/download/5.0/circumflex_5.0_linux_amd64.tar.gz"
