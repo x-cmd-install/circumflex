@@ -7,7 +7,7 @@ about:
   latestVersion: "5.0"
   latestRelease: "5.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T06:11:13Z
+  collectedAt: 2026-09-11T18:33:14Z
 timeline:
   created: 2020-07-28
   lastCommit: 2026-09-07
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-07-29
   lastPrerelease: 
 popularity:
-  star: 2068
+  star: 2069
   watcher: 8
   fork: 45
   release: 93
@@ -84,7 +84,7 @@ total:
   commit: 2860
 ---
 path: /home/runner/.x-repo/github.com/bensadeh/circumflex
-collectedAt: 2026-09-11T06:11:17Z
+collectedAt: 2026-09-11T18:33:22Z
 loc:
   Go:
     code: 31052
