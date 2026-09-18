@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 11592682,
       "digest": "sha256:6016abb76c2d6bb2776732fc2a7e0ddc27b39f0711c26cfebd2de065d062761f",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-07-29T16:57:26Z",
       "updated_at": "2026-07-29T16:57:27Z",
       "browser_download_url": "https://github.com/bensadeh/circumflex/releases/download/5.0/circumflex_5.0_darwin_arm64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 12179655,
       "digest": "sha256:830ea047491b7edfe6aa07b4801cc95d186ee15bfed66fc13529298992cfcd82",
-      "download_count": 121,
+      "download_count": 123,
       "created_at": "2026-07-29T16:57:25Z",
       "updated_at": "2026-07-29T16:57:26Z",
       "browser_download_url": "https://github.com/bensadeh/circumflex/releases/download/5.0/circumflex_5.0_linux_amd64.tar.gz"
