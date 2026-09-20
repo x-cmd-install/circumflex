@@ -4,7 +4,7 @@
 
 🌿 It's Hacker News in your terminal
 
-![circumflex](https://repo.x-cmd.io/circumflex.svg)
+[![x-cmd/install — circumflex Code Quality Monitoring Repo Card](https://repo.x-cmd.io/circumflex.svg)](https://x-cmd.com/install/circumflex)
 
 ## Install
 
@@ -47,12 +47,12 @@ Total: **32,002** lines of code across **254** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 4 | 1 | 0 | 0 | 5 |
-| last60d | 2026-07-20 | 1 | 8 | 1 | 0 | 0 | 51 |
-| 90d | 2026-06-20 | 3 | 10 | 2 | 0 | 0 | 260 |
-| last180d | 2026-03-22 | 8 | 17 | 2 | 5 | 0 | 483 |
-| 360d | 2025-09-23 | 9 | 27 | 2 | 7 | 0 | 594 |
-| last720d | 2024-09-28 | 10 | 56 | 2 | 15 | 0 | 629 |
+| 30d | 2026-08-21 | 0 | 4 | 1 | 0 | 0 | 3 |
+| last60d | 2026-07-22 | 1 | 8 | 1 | 0 | 0 | 20 |
+| 90d | 2026-06-22 | 3 | 9 | 2 | 0 | 0 | 257 |
+| last180d | 2026-03-24 | 8 | 17 | 2 | 5 | 0 | 403 |
+| 360d | 2025-09-25 | 9 | 27 | 2 | 7 | 0 | 594 |
+| last720d | 2024-09-30 | 10 | 56 | 2 | 15 | 0 | 629 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for circumflex lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:32:52Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:25:38Z._
