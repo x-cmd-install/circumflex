@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 12179655,
       "digest": "sha256:830ea047491b7edfe6aa07b4801cc95d186ee15bfed66fc13529298992cfcd82",
-      "download_count": 130,
+      "download_count": 137,
       "created_at": "2026-07-29T16:57:25Z",
       "updated_at": "2026-07-29T16:57:26Z",
       "browser_download_url": "https://github.com/bensadeh/circumflex/releases/download/5.0/circumflex_5.0_linux_amd64.tar.gz"
@@ -255,5 +255,17 @@
   ],
   "tarball_url": "https://api.github.com/repos/bensadeh/circumflex/tarball/5.0",
   "zipball_url": "https://api.github.com/repos/bensadeh/circumflex/zipball/5.0",
-  "body": "Another large release. The headliners are search, kitty image protocol and syntax highlighting in code snippets. It also\r\nbrings a few breaking changes in order to mainly improve the naming of some of the flags and fields.\r\n\r\n**New Features**\r\n\r\n- Added Search to Stories, Comment Section and Reader Mode\r\n- Syntax-highlight code blocks in Reader Mode and the Comment Section\r\n- Added URL selection mode to Reader Mode and the Comment Section, with the ability to follow links in place\r\n- Added a `jobs` category\r\n- Added `config.toml` for persistent settings\r\n- Terminal title now follows the content displayed\r\n\r\n**Reader Mode**\r\n\r\n- Links to other Hacker News discussions open in the comment section\r\n- Images now render in high resolution on terminals with Kitty graphics support (Ghostty, Kitty, Konsole)\r\n- arXiv links now open the full paper instead of the abstract page, with equations converted to Unicode math\r\n- Add support for displaying AVIF images\r\n- Fix Mermaid diagrams not rendering\r\n- Fix missing labels and titles in Matplotlib charts and other SVGs\r\n- Markdown pages are now rendered and fully formatted\r\n- Charts and diagrams now render as described figures\r\n\r\n**Comment Section**\r\n\r\n- Navigate mode moved from <kbd>Tab</kbd> to <kbd>a</kbd>, exiting with <kbd>Esc</kbd> like search; <kbd>Tab</kbd> now\r\n  opens the URL selector in every view\r\n- Flagged, deleted, and delayed comments without replies are no longer shown\r\n\r\n**Design**\r\n\r\n- Re-stylize the meta block\r\n- Soften comment footer colors\r\n- Update indent level indicator\r\n\r\n**Breaking Changes**\r\n\r\n- Renamed `--disable-history` to `--no-history`\r\n- Renamed `clx clear` to `clx clear-history`\r\n- Renamed `--reader-mode-images` to `--show-images-on-open`, replacing `CLX_READER_MODE_IMAGES`\r\n- Images require a terminal with Kitty graphics support; override the detection with `--graphics always|never`\r\n- Favorites moved to `favorites.toml` (migrated automatically)\r\n\r\nHope you enjoy using `circumflex`."
+  "body": "Another large release. The headliners are search, kitty image protocol and syntax highlighting in code snippets. It also\r\nbrings a few breaking changes in order to mainly improve the naming of some of the flags and fields.\r\n\r\n**New Features**\r\n\r\n- Added Search to Stories, Comment Section and Reader Mode\r\n- Syntax-highlight code blocks in Reader Mode and the Comment Section\r\n- Added URL selection mode to Reader Mode and the Comment Section, with the ability to follow links in place\r\n- Added a `jobs` category\r\n- Added `config.toml` for persistent settings\r\n- Terminal title now follows the content displayed\r\n\r\n**Reader Mode**\r\n\r\n- Links to other Hacker News discussions open in the comment section\r\n- Images now render in high resolution on terminals with Kitty graphics support (Ghostty, Kitty, Konsole)\r\n- arXiv links now open the full paper instead of the abstract page, with equations converted to Unicode math\r\n- Add support for displaying AVIF images\r\n- Fix Mermaid diagrams not rendering\r\n- Fix missing labels and titles in Matplotlib charts and other SVGs\r\n- Markdown pages are now rendered and fully formatted\r\n- Charts and diagrams now render as described figures\r\n\r\n**Comment Section**\r\n\r\n- Navigate mode moved from <kbd>Tab</kbd> to <kbd>a</kbd>, exiting with <kbd>Esc</kbd> like search; <kbd>Tab</kbd> now\r\n  opens the URL selector in every view\r\n- Flagged, deleted, and delayed comments without replies are no longer shown\r\n\r\n**Design**\r\n\r\n- Re-stylize the meta block\r\n- Soften comment footer colors\r\n- Update indent level indicator\r\n\r\n**Breaking Changes**\r\n\r\n- Renamed `--disable-history` to `--no-history`\r\n- Renamed `clx clear` to `clx clear-history`\r\n- Renamed `--reader-mode-images` to `--show-images-on-open`, replacing `CLX_READER_MODE_IMAGES`\r\n- Images require a terminal with Kitty graphics support; override the detection with `--graphics always|never`\r\n- Favorites moved to `favorites.toml` (migrated automatically)\r\n\r\nHope you enjoy using `circumflex`.",
+  "reactions": {
+    "url": "https://api.github.com/repos/bensadeh/circumflex/releases/361914008/reactions",
+    "total_count": 1,
+    "+1": 0,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 1,
+    "rocket": 0,
+    "eyes": 0
+  }
 }
