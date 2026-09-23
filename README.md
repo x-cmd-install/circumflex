@@ -4,7 +4,7 @@
 
 🌿 It's Hacker News in your terminal
 
-[![x-cmd/install — circumflex Code Quality Monitoring Repo Card](https://repo.x-cmd.io/circumflex.svg)](https://x-cmd.com/install/circumflex)
+[![x-cmd/install — circumflex Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/circumflex.svg)](https://x-cmd.com/install/circumflex)
 
 ## Install
 
@@ -32,7 +32,7 @@ Total: **32,002** lines of code across **254** files in the top 5 languages.
 ## Release
 
 - **Latest**: `5.0` (2026-07-29)
-- **Last commit**: 2026-09-14
+- **Last commit**: 2026-09-22
 - **Assets in release**: 6
 
 ## Popularity
@@ -41,18 +41,18 @@ Total: **32,002** lines of code across **254** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 93 · **Merged PRs**: 144 · **Open PRs**: 2 · **Closed issues**: 42 · **Open issues**: 0 · **Commits**: 2861
+- **Releases**: 93 · **Merged PRs**: 144 · **Open PRs**: 2 · **Closed issues**: 42 · **Open issues**: 0 · **Commits**: 2863
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 4 | 1 | 0 | 0 | 3 |
-| last60d | 2026-07-24 | 1 | 8 | 1 | 0 | 0 | 20 |
-| 90d | 2026-06-24 | 3 | 9 | 2 | 0 | 0 | 257 |
-| last180d | 2026-03-26 | 8 | 17 | 2 | 5 | 0 | 403 |
-| 360d | 2025-09-27 | 9 | 27 | 2 | 7 | 0 | 594 |
-| last720d | 2024-10-02 | 10 | 56 | 2 | 13 | 0 | 629 |
+| 30d | 2026-08-24 | 0 | 3 | 1 | 0 | 0 | 5 |
+| last60d | 2026-07-25 | 1 | 8 | 1 | 0 | 0 | 22 |
+| 90d | 2026-06-25 | 3 | 9 | 2 | 0 | 0 | 259 |
+| last180d | 2026-03-27 | 8 | 17 | 2 | 5 | 0 | 405 |
+| 360d | 2025-09-28 | 9 | 27 | 2 | 7 | 0 | 596 |
+| last720d | 2024-10-03 | 10 | 56 | 2 | 13 | 0 | 631 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for circumflex lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:41:56Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:38:59Z._
