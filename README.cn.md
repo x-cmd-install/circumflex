@@ -31,8 +31,8 @@ x install circumflex
 
 ## 发布
 
-- **最新版本**: `5.0` (2026-07-29)
-- **最近提交**: 2026-10-03
+- **最新版本**: `5.1` (2026-10-04)
+- **最近提交**: 2026-10-04
 - **Release 含资产**: 6 个
 
 ## 流行度
@@ -41,29 +41,29 @@ x install circumflex
 
 ## 累计统计
 
-- **发布数**: 93 · **已合并 PR**: 144 · **开放 PR**: 2 · **已关闭 issue**: 42 · **开放 issue**: 0 · **提交数**: 2868
+- **发布数**: 94 · **已合并 PR**: 144 · **开放 PR**: 2 · **已关闭 issue**: 42 · **开放 issue**: 0 · **提交数**: 2870
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-04 | 0 | 2 | 1 | 0 | 0 | 8 |
-| last60d | 2026-08-05 | 0 | 6 | 1 | 0 | 0 | 13 |
-| 90d | 2026-07-06 | 2 | 8 | 1 | 0 | 0 | 157 |
-| last180d | 2026-04-07 | 7 | 16 | 2 | 5 | 0 | 334 |
-| 360d | 2025-10-09 | 9 | 27 | 2 | 7 | 0 | 601 |
-| last720d | 2024-10-14 | 10 | 56 | 2 | 11 | 0 | 636 |
+| 30d | 2026-09-05 | 1 | 2 | 1 | 0 | 0 | 0 |
+| last60d | 2026-08-06 | 1 | 6 | 1 | 0 | 0 | 0 |
+| 90d | 2026-07-07 | 3 | 8 | 1 | 0 | 0 | 0 |
+| last180d | 2026-04-08 | 8 | 16 | 2 | 4 | 0 | 0 |
+| 360d | 2025-10-10 | 10 | 27 | 2 | 7 | 0 | 0 |
+| last720d | 2024-10-15 | 11 | 56 | 2 | 11 | 0 | 637 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [checksums.txt](https://github.com/bensadeh/circumflex/releases/download/5.0/checksums.txt) | 500 B | `other` |
-| [circumflex_5.0_darwin_amd64.tar.gz](https://github.com/bensadeh/circumflex/releases/download/5.0/circumflex_5.0_darwin_amd64.tar.gz) | 11.7 MiB | `native/darwin/x64` |
-| [circumflex_5.0_darwin_arm64.tar.gz](https://github.com/bensadeh/circumflex/releases/download/5.0/circumflex_5.0_darwin_arm64.tar.gz) | 11.1 MiB | `native/darwin/arm64` |
-| [circumflex_5.0_linux_386.tar.gz](https://github.com/bensadeh/circumflex/releases/download/5.0/circumflex_5.0_linux_386.tar.gz) | 10.8 MiB | `native/unknown` |
-| [circumflex_5.0_linux_amd64.tar.gz](https://github.com/bensadeh/circumflex/releases/download/5.0/circumflex_5.0_linux_amd64.tar.gz) | 11.6 MiB | `native/linux/x64` |
-| [circumflex_5.0_linux_arm64.tar.gz](https://github.com/bensadeh/circumflex/releases/download/5.0/circumflex_5.0_linux_arm64.tar.gz) | 10.7 MiB | `native/linux/arm64` |
+| [checksums.txt](https://github.com/bensadeh/circumflex/releases/download/5.1/checksums.txt) | 500 B | `other` |
+| [circumflex_5.1_darwin_amd64.tar.gz](https://github.com/bensadeh/circumflex/releases/download/5.1/circumflex_5.1_darwin_amd64.tar.gz) | 12.3 MiB | `native/darwin/x64` |
+| [circumflex_5.1_darwin_arm64.tar.gz](https://github.com/bensadeh/circumflex/releases/download/5.1/circumflex_5.1_darwin_arm64.tar.gz) | 11.5 MiB | `native/darwin/arm64` |
+| [circumflex_5.1_linux_386.tar.gz](https://github.com/bensadeh/circumflex/releases/download/5.1/circumflex_5.1_linux_386.tar.gz) | 11.3 MiB | `native/unknown` |
+| [circumflex_5.1_linux_amd64.tar.gz](https://github.com/bensadeh/circumflex/releases/download/5.1/circumflex_5.1_linux_amd64.tar.gz) | 12.1 MiB | `native/linux/x64` |
+| [circumflex_5.1_linux_arm64.tar.gz](https://github.com/bensadeh/circumflex/releases/download/5.1/circumflex_5.1_linux_arm64.tar.gz) | 11.2 MiB | `native/linux/arm64` |
 
 ## 改进这些数据
 
@@ -74,4 +74,4 @@ circumflex 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261004.yml` · 2026-10-04T07:04:48Z._
+_数据快照: `data/card/261005.yml` · 2026-10-05T07:03:56Z._

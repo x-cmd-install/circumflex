@@ -31,8 +31,8 @@ Total: **32,003** lines of code across **254** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `5.0` (2026-07-29)
-- **Last commit**: 2026-10-03
+- **Latest**: `5.1` (2026-10-04)
+- **Last commit**: 2026-10-04
 - **Assets in release**: 6
 
 ## Popularity
@@ -41,29 +41,29 @@ Total: **32,003** lines of code across **254** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 93 · **Merged PRs**: 144 · **Open PRs**: 2 · **Closed issues**: 42 · **Open issues**: 0 · **Commits**: 2868
+- **Releases**: 94 · **Merged PRs**: 144 · **Open PRs**: 2 · **Closed issues**: 42 · **Open issues**: 0 · **Commits**: 2870
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-04 | 0 | 2 | 1 | 0 | 0 | 8 |
-| last60d | 2026-08-05 | 0 | 6 | 1 | 0 | 0 | 13 |
-| 90d | 2026-07-06 | 2 | 8 | 1 | 0 | 0 | 157 |
-| last180d | 2026-04-07 | 7 | 16 | 2 | 5 | 0 | 334 |
-| 360d | 2025-10-09 | 9 | 27 | 2 | 7 | 0 | 601 |
-| last720d | 2024-10-14 | 10 | 56 | 2 | 11 | 0 | 636 |
+| 30d | 2026-09-05 | 1 | 2 | 1 | 0 | 0 | 0 |
+| last60d | 2026-08-06 | 1 | 6 | 1 | 0 | 0 | 0 |
+| 90d | 2026-07-07 | 3 | 8 | 1 | 0 | 0 | 0 |
+| last180d | 2026-04-08 | 8 | 16 | 2 | 4 | 0 | 0 |
+| 360d | 2025-10-10 | 10 | 27 | 2 | 7 | 0 | 0 |
+| last720d | 2024-10-15 | 11 | 56 | 2 | 11 | 0 | 637 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.txt](https://github.com/bensadeh/circumflex/releases/download/5.0/checksums.txt) | 500 B | `other` |
-| [circumflex_5.0_darwin_amd64.tar.gz](https://github.com/bensadeh/circumflex/releases/download/5.0/circumflex_5.0_darwin_amd64.tar.gz) | 11.7 MiB | `native/darwin/x64` |
-| [circumflex_5.0_darwin_arm64.tar.gz](https://github.com/bensadeh/circumflex/releases/download/5.0/circumflex_5.0_darwin_arm64.tar.gz) | 11.1 MiB | `native/darwin/arm64` |
-| [circumflex_5.0_linux_386.tar.gz](https://github.com/bensadeh/circumflex/releases/download/5.0/circumflex_5.0_linux_386.tar.gz) | 10.8 MiB | `native/unknown` |
-| [circumflex_5.0_linux_amd64.tar.gz](https://github.com/bensadeh/circumflex/releases/download/5.0/circumflex_5.0_linux_amd64.tar.gz) | 11.6 MiB | `native/linux/x64` |
-| [circumflex_5.0_linux_arm64.tar.gz](https://github.com/bensadeh/circumflex/releases/download/5.0/circumflex_5.0_linux_arm64.tar.gz) | 10.7 MiB | `native/linux/arm64` |
+| [checksums.txt](https://github.com/bensadeh/circumflex/releases/download/5.1/checksums.txt) | 500 B | `other` |
+| [circumflex_5.1_darwin_amd64.tar.gz](https://github.com/bensadeh/circumflex/releases/download/5.1/circumflex_5.1_darwin_amd64.tar.gz) | 12.3 MiB | `native/darwin/x64` |
+| [circumflex_5.1_darwin_arm64.tar.gz](https://github.com/bensadeh/circumflex/releases/download/5.1/circumflex_5.1_darwin_arm64.tar.gz) | 11.5 MiB | `native/darwin/arm64` |
+| [circumflex_5.1_linux_386.tar.gz](https://github.com/bensadeh/circumflex/releases/download/5.1/circumflex_5.1_linux_386.tar.gz) | 11.3 MiB | `native/unknown` |
+| [circumflex_5.1_linux_amd64.tar.gz](https://github.com/bensadeh/circumflex/releases/download/5.1/circumflex_5.1_linux_amd64.tar.gz) | 12.1 MiB | `native/linux/x64` |
+| [circumflex_5.1_linux_arm64.tar.gz](https://github.com/bensadeh/circumflex/releases/download/5.1/circumflex_5.1_linux_arm64.tar.gz) | 11.2 MiB | `native/linux/arm64` |
 
 ## Improve this data
 
@@ -74,4 +74,4 @@ Install metadata for circumflex lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261004.yml` · 2026-10-04T07:04:47Z._
+_Snapshot: `data/card/261005.yml` · 2026-10-05T07:03:55Z._
