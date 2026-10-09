@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 12849655,
       "digest": "sha256:10599f6e344b72bcab76184410bc3e3778b9cda8d21f417502ae1ba9bc694048",
-      "download_count": 7,
+      "download_count": 9,
       "created_at": "2026-10-04T10:23:46Z",
       "updated_at": "2026-10-04T10:23:48Z",
       "browser_download_url": "https://github.com/bensadeh/circumflex/releases/download/5.1/circumflex_5.1_darwin_amd64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 12077049,
       "digest": "sha256:94b974e6d0d4ced29d7d2265d827db3ae4a8ba280c925f1135bcb3095bb7dd3b",
-      "download_count": 8,
+      "download_count": 10,
       "created_at": "2026-10-04T10:23:45Z",
       "updated_at": "2026-10-04T10:23:46Z",
       "browser_download_url": "https://github.com/bensadeh/circumflex/releases/download/5.1/circumflex_5.1_darwin_arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 11814095,
       "digest": "sha256:f5d09d6998a92d9afa65d06edcde43953bbede40db6ce2815b087f5dec8d532b",
-      "download_count": 7,
+      "download_count": 9,
       "created_at": "2026-10-04T10:23:45Z",
       "updated_at": "2026-10-04T10:23:46Z",
       "browser_download_url": "https://github.com/bensadeh/circumflex/releases/download/5.1/circumflex_5.1_linux_386.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 12716062,
       "digest": "sha256:0803877bdced33f329e625689e6f87acdab280d4dfb90e7245bc40d7f7eb0928",
-      "download_count": 19,
+      "download_count": 23,
       "created_at": "2026-10-04T10:23:45Z",
       "updated_at": "2026-10-04T10:23:46Z",
       "browser_download_url": "https://github.com/bensadeh/circumflex/releases/download/5.1/circumflex_5.1_linux_amd64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 11695765,
       "digest": "sha256:133eb5285ed5619deb225a4da734ac4e8b6d19c61b823e301061bbeb7ba129a3",
-      "download_count": 7,
+      "download_count": 9,
       "created_at": "2026-10-04T10:23:45Z",
       "updated_at": "2026-10-04T10:23:46Z",
       "browser_download_url": "https://github.com/bensadeh/circumflex/releases/download/5.1/circumflex_5.1_linux_arm64.tar.gz"
