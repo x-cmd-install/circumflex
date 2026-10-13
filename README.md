@@ -32,27 +32,27 @@ Total: **32,003** lines of code across **254** files in the top 5 languages.
 ## Release
 
 - **Latest**: `5.1` (2026-10-04)
-- **Last commit**: 2026-10-04
+- **Last commit**: 2026-10-13
 - **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 2,098 · **Forks**: 50 · **Open issues**: 42 · **Contributors**: 9
+- **Stars**: 2,099 · **Forks**: 50 · **Open issues**: 42 · **Contributors**: 9
 
 ## Totals (cumulative)
 
-- **Releases**: 94 · **Merged PRs**: 144 · **Open PRs**: 3 · **Closed issues**: 42 · **Open issues**: 0 · **Commits**: 2870
+- **Releases**: 94 · **Merged PRs**: 145 · **Open PRs**: 3 · **Closed issues**: 42 · **Open issues**: 0 · **Commits**: 2871
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 1 | 1 | 2 | 0 | 0 | 9 |
-| last60d | 2026-08-13 | 1 | 5 | 2 | 0 | 0 | 14 |
-| 90d | 2026-07-14 | 2 | 8 | 2 | 0 | 0 | 83 |
-| last180d | 2026-04-15 | 8 | 15 | 3 | 4 | 0 | 335 |
-| 360d | 2025-10-17 | 10 | 27 | 3 | 7 | 0 | 603 |
-| last720d | 2024-10-22 | 11 | 55 | 3 | 11 | 0 | 637 |
+| 30d | 2026-09-13 | 1 | 2 | 2 | 0 | 0 | 10 |
+| last60d | 2026-08-14 | 1 | 6 | 2 | 0 | 0 | 15 |
+| 90d | 2026-07-15 | 2 | 9 | 2 | 0 | 0 | 84 |
+| last180d | 2026-04-16 | 8 | 16 | 3 | 4 | 0 | 336 |
+| 360d | 2025-10-18 | 10 | 28 | 3 | 7 | 0 | 604 |
+| last720d | 2024-10-23 | 11 | 56 | 3 | 11 | 0 | 638 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for circumflex lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T07:20:42Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T08:10:53Z._
