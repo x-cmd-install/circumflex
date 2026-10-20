@@ -41,18 +41,18 @@ Total: **32,003** lines of code across **254** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 94 · **Merged PRs**: 145 · **Open PRs**: 3 · **Closed issues**: 42 · **Open issues**: 0 · **Commits**: 2871
+- **Releases**: 94 · **Merged PRs**: 145 · **Open PRs**: 4 · **Closed issues**: 42 · **Open issues**: 0 · **Commits**: 2871
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 1 | 1 | 1 | 0 | 0 | 8 |
-| last60d | 2026-08-20 | 1 | 5 | 2 | 0 | 0 | 14 |
-| 90d | 2026-07-21 | 2 | 9 | 2 | 0 | 0 | 40 |
-| last180d | 2026-04-22 | 8 | 15 | 3 | 3 | 0 | 330 |
-| 360d | 2025-10-24 | 10 | 28 | 3 | 7 | 0 | 604 |
-| last720d | 2024-10-29 | 11 | 55 | 3 | 11 | 0 | 636 |
+| 30d | 2026-09-20 | 1 | 1 | 2 | 0 | 0 | 8 |
+| last60d | 2026-08-21 | 1 | 5 | 3 | 0 | 0 | 14 |
+| 90d | 2026-07-22 | 2 | 9 | 3 | 0 | 0 | 40 |
+| last180d | 2026-04-23 | 8 | 15 | 4 | 3 | 0 | 330 |
+| 360d | 2025-10-25 | 10 | 28 | 4 | 7 | 0 | 604 |
+| last720d | 2024-10-30 | 11 | 55 | 4 | 11 | 0 | 636 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for circumflex lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T05:48:47Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T06:03:11Z._
