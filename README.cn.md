@@ -37,7 +37,7 @@ x install circumflex
 
 ## 流行度
 
-- **Star**: 2,105 · **Fork**: 50 · **开放 issue**: 43 · **贡献者**: 9
+- **Star**: 2,106 · **Fork**: 50 · **开放 issue**: 43 · **贡献者**: 9
 
 ## 累计统计
 
@@ -47,12 +47,12 @@ x install circumflex
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 1 | 1 | 1 | 0 | 1 | 3 |
-| last60d | 2026-09-02 | 1 | 3 | 2 | 0 | 1 | 13 |
-| 90d | 2026-08-03 | 1 | 7 | 2 | 0 | 1 | 19 |
-| last180d | 2026-05-05 | 8 | 15 | 3 | 3 | 1 | 332 |
-| 360d | 2025-11-06 | 10 | 27 | 3 | 7 | 1 | 604 |
-| last720d | 2024-11-11 | 11 | 53 | 3 | 11 | 1 | 637 |
+| 30d | 2026-10-03 | 1 | 1 | 1 | 0 | 1 | 3 |
+| last60d | 2026-09-03 | 1 | 3 | 2 | 0 | 1 | 13 |
+| 90d | 2026-08-04 | 1 | 7 | 2 | 0 | 1 | 19 |
+| last180d | 2026-05-06 | 8 | 15 | 3 | 3 | 1 | 332 |
+| 360d | 2025-11-07 | 10 | 27 | 3 | 7 | 1 | 604 |
+| last720d | 2024-11-12 | 11 | 53 | 3 | 11 | 1 | 636 |
 
 ## Release 资产
 
@@ -67,11 +67,11 @@ x install circumflex
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/circumflex) 上共有 **12** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**9** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/circumflex) 上共有 **12** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**8** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Homebrew | `HEAD` | 🔄 rolling |
+| Homebrew | `5.1` | ✅ latest |
 | Nix unstable | `5.0` | ⚠️ outdated |
 
 ## 改进这些数据
@@ -83,4 +83,4 @@ circumflex 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261101.yml` · 2026-11-01T07:22:49Z._
+_数据快照: `data/card/261102.yml` · 2026-11-02T07:33:41Z._
