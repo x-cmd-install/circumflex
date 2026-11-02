@@ -1,32 +1,3 @@
-- repo: homebrew
-  srcname: circumflex
-  visiblename: circumflex
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Hacker News in your terminal
-- repo: nix_stable_24_05
-  srcname: circumflex
-  visiblename: circumflex
-  version: "3.6"
-  origversion: null
-  status: outdated
-  summary: A command line tool for browsing Hacker News in your terminal
-  maintainers:
-    - mo.issa.ok+nix@gmail.com
-  licenses:
-    - AGPL-3.0-only
-- repo: nix_stable_24_11
-  srcname: circumflex
-  visiblename: circumflex
-  version: "3.7"
-  origversion: null
-  status: outdated
-  summary: Command line tool for browsing Hacker News in your terminal
-  maintainers:
-    - mo.issa.ok+nix@gmail.com
-  licenses:
-    - AGPL-3.0-only
 - repo: aur
   srcname: circumflex
   binname: circumflex
@@ -58,6 +29,35 @@
   origversion: null
   status: newest
   summary: Hacker News in your terminal
+- repo: homebrew
+  srcname: circumflex
+  visiblename: circumflex
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Hacker News in your terminal
+- repo: nix_stable_24_05
+  srcname: circumflex
+  visiblename: circumflex
+  version: "3.6"
+  origversion: null
+  status: outdated
+  summary: A command line tool for browsing Hacker News in your terminal
+  maintainers:
+    - mo.issa.ok+nix@gmail.com
+  licenses:
+    - AGPL-3.0-only
+- repo: nix_stable_24_11
+  srcname: circumflex
+  visiblename: circumflex
+  version: "3.7"
+  origversion: null
+  status: outdated
+  summary: Command line tool for browsing Hacker News in your terminal
+  maintainers:
+    - mo.issa.ok+nix@gmail.com
+  licenses:
+    - AGPL-3.0-only
 - repo: nix_stable_25_05
   srcname: circumflex
   visiblename: circumflex
@@ -106,9 +106,9 @@
   srcname: bin/clx
   binname: bin/clx
   visiblename: bin/clx
-  version: "5.0"
+  version: "5.1"
   origversion: null
-  status: outdated
+  status: newest
   maintainers:
     - anton@samokhvalov.xyz
   categories:
