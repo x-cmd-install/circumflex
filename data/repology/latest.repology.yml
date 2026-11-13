@@ -94,9 +94,9 @@
 - repo: nix_unstable
   srcname: circumflex
   visiblename: circumflex
-  version: "5.0"
+  version: "5.1"
   origversion: null
-  status: outdated
+  status: newest
   summary: Command line tool for browsing Hacker News in your terminal
   maintainers:
     - mo.issa.ok+nix@gmail.com
