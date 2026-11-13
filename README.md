@@ -37,7 +37,7 @@ Total: **32,003** lines of code across **254** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,111 · **Forks**: 50 · **Open issues**: 43 · **Contributors**: 9
+- **Stars**: 2,112 · **Forks**: 50 · **Open issues**: 43 · **Contributors**: 9
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **32,003** lines of code across **254** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 0 | 2 | 0 | 0 | 1 | 4 |
-| last60d | 2026-09-13 | 1 | 4 | 2 | 0 | 1 | 14 |
-| 90d | 2026-08-14 | 1 | 8 | 2 | 0 | 1 | 20 |
-| last180d | 2026-05-16 | 6 | 17 | 3 | 3 | 1 | 323 |
-| 360d | 2025-11-17 | 10 | 27 | 3 | 7 | 1 | 605 |
-| last720d | 2024-11-22 | 11 | 53 | 3 | 10 | 1 | 637 |
+| 30d | 2026-10-14 | 0 | 2 | 0 | 0 | 1 | 4 |
+| last60d | 2026-09-14 | 1 | 3 | 2 | 0 | 1 | 14 |
+| 90d | 2026-08-15 | 1 | 8 | 2 | 0 | 1 | 20 |
+| last180d | 2026-05-17 | 6 | 17 | 3 | 3 | 1 | 323 |
+| 360d | 2025-11-18 | 10 | 27 | 3 | 7 | 1 | 605 |
+| last720d | 2024-11-23 | 11 | 53 | 3 | 10 | 1 | 637 |
 
 ## Release assets
 
@@ -67,12 +67,12 @@ Total: **32,003** lines of code across **254** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **12** distros on [repology.org](https://repology.org/project/circumflex). **3** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
+Reported by **12** distros on [repology.org](https://repology.org/project/circumflex). **4** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Homebrew | `5.1` | ✅ latest |
-| Nix unstable | `5.0` | ⚠️ outdated |
+| Nix unstable | `5.1` | ✅ latest |
 
 ## Improve this data
 
@@ -83,4 +83,4 @@ Install metadata for circumflex lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T09:14:49Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T08:32:28Z._
