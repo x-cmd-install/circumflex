@@ -47,12 +47,12 @@ Total: **32,003** lines of code across **254** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 0 | 3 | 0 | 0 | 1 | 5 |
-| last60d | 2026-09-22 | 1 | 4 | 1 | 0 | 1 | 13 |
-| 90d | 2026-08-23 | 1 | 8 | 2 | 0 | 1 | 20 |
-| last180d | 2026-05-25 | 6 | 18 | 3 | 1 | 1 | 301 |
-| 360d | 2025-11-26 | 10 | 27 | 3 | 7 | 1 | 605 |
-| last720d | 2024-12-01 | 11 | 53 | 3 | 10 | 1 | 637 |
+| 30d | 2026-10-23 | 0 | 3 | 0 | 0 | 1 | 5 |
+| last60d | 2026-09-23 | 1 | 4 | 1 | 0 | 1 | 13 |
+| 90d | 2026-08-24 | 1 | 7 | 2 | 0 | 1 | 20 |
+| last180d | 2026-05-26 | 5 | 18 | 3 | 1 | 1 | 301 |
+| 360d | 2025-11-27 | 10 | 27 | 3 | 7 | 1 | 605 |
+| last720d | 2024-12-02 | 11 | 52 | 3 | 10 | 1 | 637 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for circumflex lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T08:31:24Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T07:40:26Z._
